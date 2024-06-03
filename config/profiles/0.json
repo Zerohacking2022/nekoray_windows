@@ -1,0 +1,28 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "www.visa.com",
+        "name": "@Evening_config👑👑👑👑",
+        "pass": "d392d11e-d424-4583-b36e-554ab1f0afa8",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "host": "zerohacking2022.amirhbrad849032.workers.dev",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/?ed=2048",
+            "sec": "tls",
+            "sni": "zerohacking2022.amirhbrad849032.workers.dev",
+            "utls": "randomized"
+        }
+    },
+    "gid": 0,
+    "id": 0,
+    "traffic": {
+        "dl": 369358605,
+        "ul": 13826867
+    },
+    "type": "vless",
+    "yc": 369
+}

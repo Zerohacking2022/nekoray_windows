@@ -1,0 +1,25 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "185.146.173.94",
+        "name": "@v2rayngvpn",
+        "pass": "41f3f20b-c8fe-4981-a99d-75f965335749",
+        "port": 80,
+        "stream": {
+            "ed_len": 0,
+            "host": "4.V2ray.n.speedtest.net.check-host.net.列列男事的事列上赛男78.Wiki.",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048"
+        }
+    },
+    "gid": 0,
+    "id": 4,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vless",
+    "yc": 0
+}

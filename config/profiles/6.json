@@ -1,0 +1,28 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "185.148.105.72",
+        "name": "amirworker.amirhbrad849032.workers.dev",
+        "pass": "62640cc9-5eca-4a80-858e-118c98d48478",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "host": "amirworker.amirhbrad849032.workers.dev",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/?ed=2048",
+            "sec": "tls",
+            "sni": "amirworker.amirhbrad849032.workers.dev",
+            "utls": "randomized"
+        }
+    },
+    "gid": 0,
+    "id": 6,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vless",
+    "yc": 891
+}

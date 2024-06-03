@@ -1,0 +1,27 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "104.16.159.112",
+        "name": "@v2rayngvpn",
+        "pass": "4aec4e7f8cf8454ea4613659822e1a61",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "host": "jobscareertoday.com",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/6b777a91",
+            "sec": "tls",
+            "sni": "jobscareertoday.com"
+        }
+    },
+    "gid": 0,
+    "id": 3,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "trojan",
+    "yc": 0
+}

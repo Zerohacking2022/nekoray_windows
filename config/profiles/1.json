@@ -1,0 +1,28 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "190.93.244.113",
+        "name": "@v2rayngvpn",
+        "pass": "ebfbb701-46eb-42ee-8a94-f00e3d816233",
+        "port": 443,
+        "stream": {
+            "alpn": "h2",
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "grpc",
+            "path": "/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023",
+            "sec": "tls",
+            "sni": "furi-guri-allnet.poshakbany.ir",
+            "utls": "chrome"
+        }
+    },
+    "gid": 0,
+    "id": 1,
+    "traffic": {
+        "dl": 3058766,
+        "ul": 891001
+    },
+    "type": "vless",
+    "yc": 438
+}

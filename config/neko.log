@@ -1,0 +1,1051 @@
+ers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:29 [Warning] [1175202496] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:29 [Warning] [1175202496] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 13:46:29 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:29 [Warning] [743042626] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:29 [Warning] [743042626] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 13:46:30 127.0.0.1:60912 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 13:46:30 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 [Warning] [1339086455] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 [Warning] [1339086455] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 13:46:30 127.0.0.1:60915 accepted //36.ucp-ntfy.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:46:30 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 [Warning] [1347624154] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 127.0.0.1:60918 accepted //36.ucp-ntfy.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:46:30 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 [Warning] [350030775] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 127.0.0.1:60921 accepted //36.ucp-ntfy.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:46:30 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 [Warning] [1285466121] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 127.0.0.1:60922 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/02 13:46:30 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:30 [Warning] [271638736] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 13:46:31 127.0.0.1:52358 accepted //195.122.177.205:443 [http-in -> proxy]
+2024/06/02 13:46:31 127.0.0.1:52359 accepted //195.122.177.205:443 [http-in -> proxy]
+2024/06/02 13:46:31 127.0.0.1:54169 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 13:46:31 127.0.0.1:54168 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:65186 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:65188 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:65190 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:65191 accepted //195.122.177.205:443 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:65187 accepted //195.122.177.205:443 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:65189 accepted //195.122.177.205:443 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:60837 accepted //62.67.238.211:443 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:60839 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:60843 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/02 13:46:32 127.0.0.1:60844 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/02 13:46:33 127.0.0.1:60847 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 13:46:33 127.0.0.1:60849 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 13:46:33 127.0.0.1:60559 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/02 13:46:34 127.0.0.1:49822 accepted //contile.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:46:34 127.0.0.1:49821 accepted //github.com:443 [http-in -> proxy]
+2024/06/02 13:46:34 127.0.0.1:49827 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:46:34 127.0.0.1:49828 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/02 13:46:34 127.0.0.1:49831 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 13:46:35 127.0.0.1:49933 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 13:46:35 127.0.0.1:50268 accepted //195.122.177.180:443 [http-in -> proxy]
+2024/06/02 13:46:36 127.0.0.1:49418 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 13:46:36 127.0.0.1:49419 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 13:46:36 127.0.0.1:49422 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 13:46:36 127.0.0.1:60562 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:46:36 127.0.0.1:56988 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 13:46:36 127.0.0.1:56990 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 13:46:37 127.0.0.1:54979 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/02 13:46:38 127.0.0.1:54982 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 13:46:39 127.0.0.1:54984 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 13:46:39 127.0.0.1:54985 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 13:46:39 127.0.0.1:54988 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 13:46:39 127.0.0.1:54990 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 13:46:39 127.0.0.1:54991 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 13:46:44 127.0.0.1:54999 accepted //github.com:443 [http-in -> proxy]
+2024/06/02 13:46:45 127.0.0.1:55001 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/02 13:46:46 127.0.0.1:55003 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:46:46 127.0.0.1:55006 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 13:46:47 127.0.0.1:55008 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:46:48 127.0.0.1:55010 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/02 13:46:49 127.0.0.1:55012 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/02 13:46:50 127.0.0.1:55014 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/02 13:46:53 127.0.0.1:55018 accepted //195.122.177.211:443 [http-in -> proxy]
+2024/06/02 13:46:53 127.0.0.1:55020 accepted http://tile-service.weather.microsoft.com/en-US/livetile/preinstall?region=US&appid=C98EA5B0842DBB9405BBF071E1DA76512D21FE36&FORM=Threshold [http-in -> proxy]
+2024/06/02 13:46:53 127.0.0.1:55022 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:47:07 127.0.0.1:55026 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:47:07 127.0.0.1:55028 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 13:47:07 127.0.0.1:55030 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:47:32 127.0.0.1:55033 accepted http://c.pki.goog/r/r1.crl [http-in -> proxy]
+2024/06/02 13:47:32 127.0.0.1:55033 accepted http://scrootca2.ocsp.secomtrust.net/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTyDvPjcY8Z0TDZzHotwwMWHLKc0AQUCoWpd2UFmHxAgfgPlyw48QrsPM8CECK5saB0ZBhX96ATMttCuew%3D [http-in -> proxy]
+2024/06/02 13:47:32 127.0.0.1:55036 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/02 13:47:33 127.0.0.1:55033 accepted http://x1.c.lencr.org/ [http-in -> proxy]
+2024/06/02 13:47:33 127.0.0.1:55033 accepted http://x2.c.lencr.org/ [http-in -> proxy]
+2024/06/02 13:47:33 127.0.0.1:55033 accepted http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?283e602def52e7b2 [http-in -> proxy]
+2024/06/02 13:47:34 127.0.0.1:55033 accepted http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?b6b68845b1f8fe5a [http-in -> proxy]
+2024/06/02 13:48:02 127.0.0.1:55044 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:48:29 127.0.0.1:55046 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/02 13:48:29 127.0.0.1:55047 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/02 13:49:26 127.0.0.1:55051 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/02 13:50:35 127.0.0.1:55057 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/02 13:50:57 127.0.0.1:55059 accepted //ipm-klca.kaspersky.com:443 [http-in -> proxy]
+2024/06/02 13:51:28 127.0.0.1:55062 accepted //ds.kaspersky.com:443 [http-in -> proxy]
+2024/06/02 13:51:33 127.0.0.1:55066 accepted //81.19.104.108:443 [http-in -> proxy]
+2024/06/02 13:54:55 127.0.0.1:55072 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:55:56 127.0.0.1:55075 accepted http://tile-service.weather.microsoft.com/en-US/livetile/preinstall?region=US&appid=C98EA5B0842DBB9405BBF071E1DA76512D21FE36&FORM=Threshold [http-in -> proxy]
+2024/06/02 13:56:05 127.0.0.1:55077 accepted //firefox.settings.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:56:05 127.0.0.1:55079 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 13:56:27 127.0.0.1:55081 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:56:31 127.0.0.1:55084 accepted //dc1-st.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:56:35 127.0.0.1:55086 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/02 13:56:36 127.0.0.1:55090 accepted //62.67.238.205:443 [http-in -> proxy]
+2024/06/02 13:57:12 127.0.0.1:55092 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:57:12 127.0.0.1:55094 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:57:23 127.0.0.1:55095 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 13:57:23 127.0.0.1:55097 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 13:59:02 127.0.0.1:55101 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 13:59:53 127.0.0.1:55104 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 14:00:53 127.0.0.1:55108 accepted http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl [http-in -> proxy]
+2024/06/02 14:01:21 127.0.0.1:55110 accepted //dc1-st.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 14:01:37 127.0.0.1:55114 accepted //81.19.104.114:443 [http-in -> proxy]
+2024/06/02 14:01:52 127.0.0.1:55117 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/02 14:03:05 127.0.0.1:55121 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/02 14:03:07 127.0.0.1:55123 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 14:03:47 127.0.0.1:55129 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 14:04:03 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 14:04:03 [Warning] [668144381] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 14:04:03 127.0.0.1:55136 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 14:04:05 127.0.0.1:55139 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 14:04:19 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 14:04:19 [Warning] [1494544354] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 14:04:19 127.0.0.1:55151 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 14:04:35 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 14:04:35 [Warning] [320759457] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 14:04:35 127.0.0.1:55165 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 14:04:39 127.0.0.1:59071 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 14:04:39 127.0.0.1:59072 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 14:04:39 127.0.0.1:59073 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 14:04:40 127.0.0.1:49601 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 14:04:40 127.0.0.1:49602 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 14:04:40 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 14:04:40 [Warning] [1764367314] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 14:04:40 [Warning] [1764367314] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 14:04:40 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 14:04:40 [Warning] [38946769] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 14:04:40 [Warning] [38946769] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:08 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.99.0:443: i/o timeout
+2024/06/02 15:17:08 [Warning] [2604572834] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp 188.114.99.0:443: i/o timeout
+2024/06/02 15:17:08 [Warning] [2604572834] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:08 [Warning] [2604572834] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:59071: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/02 15:17:08 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.99.0:443: operation was canceled
+2024/06/02 15:17:08 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 15:17:08 [Warning] [1439833462] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp 188.114.98.0:443: i/o timeout
+2024/06/02 15:17:08 [Warning] [1439833462] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:08 [Warning] [1439833462] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:59072: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/02 15:17:08 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.99.0:443: i/o timeout
+2024/06/02 15:17:08 [Warning] [182043338] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp 188.114.99.0:443: i/o timeout
+2024/06/02 15:17:08 [Warning] [182043338] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:08 [Warning] [182043338] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:59073: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/02 15:17:09 127.0.0.1:53774 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:53776 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:53775 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:53777 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:53778 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:53779 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:53780 accepted //ds.kaspersky.com:443 [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [3839785184] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [4033924528] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [4175591405] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [4175591405] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [3469079444] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [3469079444] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [4236975916] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [807994164] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [807994164] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2910886237] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 127.0.0.1:63219 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:50446 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2616430033] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [1273275470] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [1273275470] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 127.0.0.1:63220 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2423035412] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2423035412] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 127.0.0.1:63222 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:63221 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [4252786995] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2418901690] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2418901690] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 127.0.0.1:63223 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [3988899152] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [3988899152] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 127.0.0.1:63224 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [4274032599] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 127.0.0.1:63225 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:63226 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [138979628] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [1664074254] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [1664074254] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 127.0.0.1:63229 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2284281995] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 127.0.0.1:63231 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:63230 accepted //36.ucp-ntfy.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:10 127.0.0.1:63232 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [747643587] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [747643587] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2808357492] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [2808357492] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [1255727217] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 127.0.0.1:63233 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:10 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [888694043] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:10 [Warning] [888694043] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:11 127.0.0.1:63237 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:11 127.0.0.1:63236 accepted //36.ucp-ntfy.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:11 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [3741049839] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [1077671313] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [1077671313] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:11 127.0.0.1:63240 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:11 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [1298567702] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [1298567702] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:11 127.0.0.1:63242 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:11 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [750293474] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [750293474] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:11 127.0.0.1:63241 accepted //36.ucp-ntfy.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:11 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [3910142623] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 127.0.0.1:63243 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:11 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [1214557825] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [1214557825] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:11 127.0.0.1:63244 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:11 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [3910214491] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > dial tcp: lookup amirworker.amirhbrad849032.workers.dev: no such host
+2024/06/02 15:17:11 [Warning] [3910214491] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/02 15:17:11 127.0.0.1:62359 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:49601 accepted //62.67.238.214:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:49605 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:56423 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:56425 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:56426 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:56427 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:56428 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:56431 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:56432 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:61604 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:12 127.0.0.1:61605 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:13 127.0.0.1:61609 accepted //contile.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:13 127.0.0.1:61610 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/02 15:17:13 127.0.0.1:61621 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:13 127.0.0.1:61622 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:13 127.0.0.1:61625 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/02 15:17:13 127.0.0.1:61627 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 15:17:13 127.0.0.1:61631 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/02 15:17:14 127.0.0.1:61633 accepted //github.com:443 [http-in -> proxy]
+2024/06/02 15:17:14 127.0.0.1:61635 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:14 127.0.0.1:51599 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/02 15:17:15 127.0.0.1:51601 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:15 127.0.0.1:51604 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 15:17:16 [Warning] [1513907442] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/02 15:17:16 127.0.0.1:51808 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:16 127.0.0.1:60849 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/02 15:17:17 127.0.0.1:63588 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:17 127.0.0.1:63589 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:17 127.0.0.1:63592 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:18 127.0.0.1:61488 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:18 127.0.0.1:61489 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:19 127.0.0.1:61494 accepted //chat.sabzlearn.ir:443 [http-in -> proxy]
+2024/06/02 15:17:20 127.0.0.1:61497 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:20 127.0.0.1:61496 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:20 127.0.0.1:61500 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/02 15:17:21 127.0.0.1:61502 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/02 15:17:21 127.0.0.1:61503 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/02 15:17:24 127.0.0.1:61509 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/02 15:17:24 127.0.0.1:61510 accepted //github.com:443 [http-in -> proxy]
+2024/06/02 15:17:24 127.0.0.1:61513 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/02 15:17:26 127.0.0.1:61516 accepted //firefox.settings.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:26 127.0.0.1:61518 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:26 127.0.0.1:61520 accepted //raw.githubusercontent.com:443 [http-in -> proxy]
+2024/06/02 15:17:26 127.0.0.1:61522 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 15:17:26 [Warning] [2797375019] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/02 15:17:27 127.0.0.1:61524 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 15:17:27 127.0.0.1:61526 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:28 127.0.0.1:61527 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/02 15:17:31 127.0.0.1:61530 accepted //dash.cloudflare.com:443 [http-in -> proxy]
+2024/06/02 15:17:34 127.0.0.1:61534 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/02 15:17:34 127.0.0.1:61535 accepted //static.cloudflareinsights.com:443 [http-in -> proxy]
+2024/06/02 15:17:36 127.0.0.1:61538 accepted //gates.cloudflare.com:443 [http-in -> proxy]
+2024/06/02 15:17:36 127.0.0.1:61541 accepted http://tile-service.weather.microsoft.com/en-US/livetile/preinstall?region=US&appid=C98EA5B0842DBB9405BBF071E1DA76512D21FE36&FORM=Threshold [http-in -> proxy]
+2024/06/02 15:17:36 127.0.0.1:61543 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:36 127.0.0.1:61545 accepted //cloudflareinsights.com:443 [http-in -> proxy]
+2024/06/02 15:17:37 127.0.0.1:61547 accepted //dc1-st.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/02 15:17:37 127.0.0.1:61549 accepted //js.stripe.com:443 [http-in -> proxy]
+2024/06/02 15:17:39 127.0.0.1:61551 accepted //m.stripe.network:443 [http-in -> proxy]
+2024/06/02 15:17:39 127.0.0.1:61553 accepted //q.stripe.com:443 [http-in -> proxy]
+2024/06/02 15:17:39 127.0.0.1:61555 accepted //r.stripe.com:443 [http-in -> proxy]
+2024/06/02 15:17:40 127.0.0.1:61557 accepted //m.stripe.com:443 [http-in -> proxy]
+2024/06/02 15:17:45 127.0.0.1:61560 accepted //imagedelivery.net:443 [http-in -> proxy]
+2024/06/02 15:17:47 127.0.0.1:61563 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/02 15:17:47 127.0.0.1:61565 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/02 15:18:06 127.0.0.1:61568 accepted //24be14cf.quick-edit-cny.pages.dev:443 [http-in -> proxy]
+2024/06/02 15:18:09 127.0.0.1:61570 accepted //3a2fdf01d3694c74a91022ce4bb20611.amirhbrad849032.workers.dev:443 [http-in -> proxy]
+2024/06/03 06:42:48 nekoray_core grpc server listening at 127.0.0.1:52714
+2024/06/03 06:42:51 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:42:54 127.0.0.1:52716 accepted //watson.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:43:01 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:43:10 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:43:15 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:43:25 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:45:02 parent exited: exit status 0x40010004 <nil>
+2024/06/03 06:47:35 nekoray_core grpc server listening at 127.0.0.1:49764
+2024/06/03 06:47:42 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:47:50 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:48:26 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:48:29 127.0.0.1:49768 accepted //default.exp-tas.com:443 [http-in -> proxy]
+2024/06/03 06:48:31 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:49:05 [Warning] core: Xray 1.8.4 started
+2024/06/03 06:49:21 127.0.0.1:49815 accepted //149.154.167.41:443 [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49817 accepted //149.154.175.58:443 [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49816 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49818 accepted //149.154.167.92:443 [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49819 accepted //149.154.175.50:443 [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49825 accepted http://[2001:67c:4e8:f004::a]:80/api [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49826 accepted http://149.154.175.58:80/api [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49827 accepted http://149.154.167.41:80/api [http-in -> proxy]
+2024/06/03 06:49:21 [Warning] [517832672] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f002::a:443 > address 2001:67c:4e8:f002::a:443: too many colons in address
+2024/06/03 06:49:21 [Warning] [595869363] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::a:443 > address 2001:67c:4e8:f004::a:443: too many colons in address
+2024/06/03 06:49:21 [Warning] [3251640195] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:b28:f23d:f001::a:443 > address 2001:b28:f23d:f001::a:443: too many colons in address
+2024/06/03 06:49:21 [Warning] [2179587511] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 06:49:21 127.0.0.1:49824 accepted http://149.154.167.92:80/api [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49828 accepted http://[2001:67c:4e8:f002::a]:80/api [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49830 accepted http://[2001:b28:f23d:f001::a]:80/api [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49831 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49829 accepted http://149.154.175.50:80/api [http-in -> proxy]
+2024/06/03 06:49:21 127.0.0.1:49832 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 06:49:22 [Warning] [2195518596] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49827: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:22 [Warning] [1526630664] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49831: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:22 [Warning] [4230438069] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49824: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:22 [Warning] [2358786277] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49828: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:22 [Warning] [543984060] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49826: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:23 [Warning] [955708207] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49830: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:23 [Warning] [367756866] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49829: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:23 [Warning] [51989058] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f002::b:443 > address 2001:67c:4e8:f002::b:443: too many colons in address
+2024/06/03 06:49:23 127.0.0.1:49859 accepted http://[2001:67c:4e8:f002::b]:80/api [http-in -> proxy]
+2024/06/03 06:49:23 127.0.0.1:49857 accepted //149.154.167.222:443 [http-in -> proxy]
+2024/06/03 06:49:23 127.0.0.1:49860 accepted http://149.154.167.222:80/api [http-in -> proxy]
+2024/06/03 06:49:23 [Warning] [149172856] proxy/http: failed to read response from [2001:67c:4e8:f004::a]:80 > io: read/write on closed pipe
+2024/06/03 06:49:23 [Warning] [149172856] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49825: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:24 [Warning] [4237845787] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49860: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:25 [Warning] [930225103] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49859: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:26 [Warning] [625937450] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 06:49:26 127.0.0.1:49868 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 06:49:26 127.0.0.1:49866 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 06:49:26 127.0.0.1:49869 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 06:49:27 127.0.0.1:49875 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 06:49:27 [Warning] [2533791272] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 06:49:27 127.0.0.1:49876 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 06:49:27 127.0.0.1:49873 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 06:49:28 [Warning] [4232569656] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49868: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:28 [Warning] [266744934] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49869: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:29 [Warning] [3984772655] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49876: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:29 [Warning] [3455680558] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49875: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:49:41 127.0.0.1:49890 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:49:41 [Warning] [665591748] proxy/http: failed to read response from [2001:67c:4e8:f004::b]:80 > io: read/write on closed pipe
+2024/06/03 06:49:41 [Warning] [665591748] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:49832: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:50:54 127.0.0.1:49919 accepted //ds.kaspersky.com:443 [http-in -> proxy]
+2024/06/03 06:50:55 127.0.0.1:49923 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 06:52:32 127.0.0.1:49928 accepted //az700632.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:33 127.0.0.1:49930 accepted http://go.microsoft.com/fwlink/?LinkID=659004&clcid=0x409 [http-in -> proxy]
+2024/06/03 06:52:33 127.0.0.1:49932 accepted http://go.microsoft.com/fwlink/?LinkId=690387&v0=c07b26ac-b877-4872-869c-4a18c7eb5eaa&v1=cb1aad7b-3179-4441-a54c-e78a9c374404&v2=uninitialized&v3=en-US&v4=14.0.25420.1&v5=enterprise-2015&v6=0&v7=715f10eb-9e99-11d2-bfc2-00c04f990235 [http-in -> proxy]
+2024/06/03 06:52:34 127.0.0.1:49934 accepted //go.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:35 127.0.0.1:49936 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:35 127.0.0.1:49938 accepted //targetednotifications-tm.trafficmanager.net:443 [http-in -> proxy]
+2024/06/03 06:52:35 127.0.0.1:49940 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:36 127.0.0.1:49950 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:36 127.0.0.1:49949 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:36 127.0.0.1:49948 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:36 127.0.0.1:49954 accepted //download.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:36 127.0.0.1:49956 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:36 127.0.0.1:49958 accepted //go.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:36 127.0.0.1:49960 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:37 127.0.0.1:49962 accepted //vsstartpagenewsfeed.azureedge.net:443 [http-in -> proxy]
+2024/06/03 06:52:37 127.0.0.1:49930 accepted http://visualstudio-devdiv-c2s.msedge.net/ab [http-in -> proxy]
+2024/06/03 06:52:38 127.0.0.1:49971 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:38 127.0.0.1:49973 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:38 127.0.0.1:49978 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:38 127.0.0.1:49980 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:39 127.0.0.1:49983 accepted //s.ch9.ms:443 [http-in -> proxy]
+2024/06/03 06:52:39 127.0.0.1:49985 accepted //app.vssps.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 06:52:39 127.0.0.1:49987 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:40 127.0.0.1:49992 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:40 127.0.0.1:49998 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:41 127.0.0.1:50000 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:41 127.0.0.1:50009 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:41 127.0.0.1:50011 accepted //app.vssps.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 06:52:41 127.0.0.1:50013 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:42 127.0.0.1:50015 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:42 127.0.0.1:50017 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:42 127.0.0.1:50019 accepted //login.microsoftonline.com:443 [http-in -> proxy]
+2024/06/03 06:52:42 127.0.0.1:50021 accepted //az700632.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:43 127.0.0.1:50023 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:43 127.0.0.1:50025 accepted //aadcdn.msauth.net:443 [http-in -> proxy]
+2024/06/03 06:52:43 127.0.0.1:50026 accepted //aadcdn.msauth.net:443 [http-in -> proxy]
+2024/06/03 06:52:43 127.0.0.1:50027 accepted //aadcdn.msauth.net:443 [http-in -> proxy]
+2024/06/03 06:52:45 127.0.0.1:50031 accepted //az700632.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 06:52:45 127.0.0.1:50033 accepted //login.live.com:443 [http-in -> proxy]
+2024/06/03 06:52:50 127.0.0.1:50035 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 06:52:51 127.0.0.1:50037 accepted http://ocsp.sectigo.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTPlNxcMEqnlIVyH5VuZ4lawhZX3QQU9oUKOxGG4QR9DqoLLNLuzGR7e64CEE4o94a2bBo7lCzSxA63QqU%3D [http-in -> proxy]
+2024/06/03 06:52:53 127.0.0.1:50039 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:52:53 127.0.0.1:50041 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:52:53 127.0.0.1:50040 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:52:53 127.0.0.1:50042 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:52:56 127.0.0.1:50047 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:52:57 127.0.0.1:50049 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:58 127.0.0.1:50051 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:52:58 127.0.0.1:50053 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:53:35 127.0.0.1:50055 accepted //clientservices.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:35 127.0.0.1:50056 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:36 127.0.0.1:50057 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:37 127.0.0.1:50063 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:37 127.0.0.1:50065 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:37 127.0.0.1:50067 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:38 127.0.0.1:50073 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:53:39 127.0.0.1:50076 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:53:39 127.0.0.1:50078 accepted //update.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:39 127.0.0.1:50080 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:39 127.0.0.1:50082 accepted //clientservices.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:39 127.0.0.1:50081 accepted //update.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:40 127.0.0.1:50086 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:53:40 127.0.0.1:50088 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:40 127.0.0.1:50089 accepted //update.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:40 127.0.0.1:50090 accepted //clientservices.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:40 127.0.0.1:50094 accepted //google-ohttp-relay-safebrowsing.fastly-edge.com:443 [http-in -> proxy]
+2024/06/03 06:53:40 127.0.0.1:50095 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:53:40 [Error] transport/internet/websocket: failed to dial to amirworker.amirhbrad849032.workers.dev:443 > dial tcp 188.114.97.12:443: operation was canceled
+2024/06/03 06:53:42 127.0.0.1:50098 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:42 127.0.0.1:50100 accepted //translate.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:42 127.0.0.1:50102 accepted //translate.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:43 127.0.0.1:50104 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 06:53:43 127.0.0.1:50105 accepted //translate.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50109 accepted //fonts.gstatic.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50108 accepted //translate.google.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50113 accepted //translate-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50112 accepted //translate-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50116 accepted //translate-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50114 accepted //translate-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50115 accepted //translate-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50117 accepted //translate-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50124 accepted //content-autofill.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:44 127.0.0.1:50126 accepted //optimizationguide-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:45 127.0.0.1:50128 accepted //translate.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:53:53 127.0.0.1:50137 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:53:58 127.0.0.1:50144 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:53:59 127.0.0.1:50147 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/03 06:53:59 127.0.0.1:50149 accepted //contile.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 06:53:59 127.0.0.1:50151 accepted //content-signature-2.cdn.mozilla.net:443 [http-in -> proxy]
+2024/06/03 06:54:00 127.0.0.1:50154 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/03 06:54:00 127.0.0.1:50153 accepted //aus5.mozilla.org:443 [http-in -> proxy]
+2024/06/03 06:54:01 127.0.0.1:50157 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:54:01 127.0.0.1:50159 accepted http://ocsp.digicert.com/ [http-in -> proxy]
+2024/06/03 06:54:01 127.0.0.1:50160 accepted http://ocsp.digicert.com/ [http-in -> proxy]
+2024/06/03 06:54:01 127.0.0.1:50164 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 06:54:01 127.0.0.1:50165 accepted //firefox.settings.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 06:54:01 127.0.0.1:50168 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/03 06:54:01 127.0.0.1:50170 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/03 06:54:02 127.0.0.1:50172 accepted http://r3.o.lencr.org/ [http-in -> proxy]
+2024/06/03 06:54:02 127.0.0.1:50174 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 06:54:03 127.0.0.1:50176 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 06:54:04 127.0.0.1:50178 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/03 06:54:04 127.0.0.1:50179 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/03 06:54:04 127.0.0.1:50182 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 06:54:04 127.0.0.1:50183 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 06:54:05 127.0.0.1:50185 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 06:54:07 [Warning] [2689362483] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/03 06:54:08 127.0.0.1:50187 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50188 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50190 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50189 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50191 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50195 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50197 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50196 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50198 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50201 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50202 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:08 127.0.0.1:50205 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:09 127.0.0.1:50215 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50213 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50208 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50212 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50217 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50218 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50209 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50211 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50214 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:54:13 127.0.0.1:50210 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:54:14 127.0.0.1:50228 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 06:54:14 127.0.0.1:50230 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/03 06:54:14 127.0.0.1:50232 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/03 06:54:14 127.0.0.1:50236 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/03 06:54:14 127.0.0.1:50235 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 06:54:14 127.0.0.1:50234 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/03 06:54:26 127.0.0.1:50241 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:54:30 [Warning] [3118458603] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 06:54:30 127.0.0.1:50243 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 06:54:30 127.0.0.1:50245 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 06:54:30 127.0.0.1:50246 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 06:54:31 [Warning] [3220643499] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50245: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:54:31 [Warning] [3399617322] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50246: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:54:38 127.0.0.1:50250 accepted //user-images.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:54:59 127.0.0.1:50252 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/03 06:55:00 127.0.0.1:50254 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/03 06:55:00 127.0.0.1:50256 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/03 06:55:01 127.0.0.1:50258 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:55:01 127.0.0.1:50260 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:55:02 127.0.0.1:50262 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 06:55:02 127.0.0.1:50264 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:55:03 127.0.0.1:50266 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:55:24 127.0.0.1:50271 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 06:55:29 127.0.0.1:50273 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:30 127.0.0.1:50276 accepted //lh3.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:30 127.0.0.1:50282 accepted //waa-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:31 127.0.0.1:50284 accepted //lh3.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:55:31 127.0.0.1:50281 accepted //waa-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:31 127.0.0.1:50288 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:33 127.0.0.1:50287 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:33 127.0.0.1:50291 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:33 127.0.0.1:50293 accepted //adservice.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:33 127.0.0.1:50294 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/03 06:55:33 127.0.0.1:50298 accepted http://ocsp.pki.goog/gts1c3 [http-in -> proxy]
+2024/06/03 06:55:34 127.0.0.1:50300 accepted //ogs.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:33 127.0.0.1:50306 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 06:56:33 127.0.0.1:50308 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 06:56:33 127.0.0.1:50309 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 06:56:38 127.0.0.1:50313 accepted //mail.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:38 127.0.0.1:50315 accepted http://o.pki.goog/wr2/MFEwTzBNMEswSTAJBgUrDgMCGgUABBRTQtSEi8EX%2BbYUTXd8%2ByMxD3s1zQQU3hse7XkV1D43JMMhu%2Bw0OW1CsjACEHQfDNbyFwVhEMZzeKEO3vk%3D [http-in -> proxy]
+2024/06/03 06:56:39 127.0.0.1:50317 accepted //ssl.gstatic.com:443 [http-in -> proxy]
+2024/06/03 06:56:40 127.0.0.1:50320 accepted //ssl.gstatic.com:443 [http-in -> proxy]
+2024/06/03 06:56:41 127.0.0.1:50323 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 06:56:42 127.0.0.1:50325 accepted //apis.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:42 127.0.0.1:50327 accepted //ogads-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:43 127.0.0.1:50330 accepted http://o.pki.goog/wr2/MFIwUDBOMEwwSjAJBgUrDgMCGgUABBRTQtSEi8EX%2BbYUTXd8%2ByMxD3s1zQQU3hse7XkV1D43JMMhu%2Bw0OW1CsjACEQDg15zY0whqShDm31UieG5q [http-in -> proxy]
+2024/06/03 06:56:46 127.0.0.1:50326 accepted //ogads-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:48 127.0.0.1:50334 accepted //addons-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:51 127.0.0.1:50333 accepted //addons-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:52 127.0.0.1:50338 accepted //fonts.gstatic.com:443 [http-in -> proxy]
+2024/06/03 06:56:56 127.0.0.1:50341 accepted //signaler-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:57 127.0.0.1:50347 accepted //mail-ads.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:58 127.0.0.1:50340 accepted //signaler-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:58 127.0.0.1:50351 accepted //peoplestackwebexperiments-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:58 127.0.0.1:50353 accepted //people-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:58 127.0.0.1:50346 accepted //mail-ads.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:58 127.0.0.1:50357 accepted //contacts.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:59 127.0.0.1:50352 accepted //people-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:59 127.0.0.1:50350 accepted //peoplestackwebexperiments-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 06:56:59 127.0.0.1:50362 accepted //fonts.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:57:06 127.0.0.1:50365 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:57:14 127.0.0.1:50367 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 06:57:20 127.0.0.1:50369 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:57:20 127.0.0.1:50371 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 06:57:25 127.0.0.1:50373 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:57:25 127.0.0.1:50374 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:57:25 127.0.0.1:50377 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 06:57:42 127.0.0.1:50383 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:57:43 127.0.0.1:50385 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:58:03 127.0.0.1:50387 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:58:26 [Warning] [3042119799] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 06:58:26 127.0.0.1:50389 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 06:58:26 127.0.0.1:50391 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 06:58:26 127.0.0.1:50392 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 06:58:26 [Warning] [3656580965] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50392: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:58:27 [Warning] [2982622973] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50391: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:58:32 127.0.0.1:50397 accepted http://tile-service.weather.microsoft.com/en-US/livetile/preinstall?region=US&appid=C98EA5B0842DBB9405BBF071E1DA76512D21FE36&FORM=Threshold [http-in -> proxy]
+2024/06/03 06:58:45 127.0.0.1:50399 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 06:58:55 127.0.0.1:50401 accepted //login.live.com:443 [http-in -> proxy]
+2024/06/03 06:58:56 127.0.0.1:50403 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:58:57 127.0.0.1:50405 accepted //acctcdn.msftauth.net:443 [http-in -> proxy]
+2024/06/03 06:58:57 127.0.0.1:50407 accepted //acctcdn.msftauth.net:443 [http-in -> proxy]
+2024/06/03 06:58:57 127.0.0.1:50406 accepted //acctcdn.msftauth.net:443 [http-in -> proxy]
+2024/06/03 06:58:57 127.0.0.1:50408 accepted //acctcdn.msftauth.net:443 [http-in -> proxy]
+2024/06/03 06:58:58 127.0.0.1:50413 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:58:59 127.0.0.1:50415 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:58:59 127.0.0.1:50417 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:58:59 127.0.0.1:50419 accepted //acctcdn.msftauth.net:443 [http-in -> proxy]
+2024/06/03 06:59:00 127.0.0.1:50421 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:00 127.0.0.1:50424 accepted //fpt.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:00 127.0.0.1:50423 accepted //contile.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 06:59:01 127.0.0.1:50427 accepted //fpt2.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:59:02 127.0.0.1:50429 accepted //browser.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:59:02 127.0.0.1:50431 accepted //login.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:02 127.0.0.1:50433 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:03 127.0.0.1:50435 accepted //login.microsoftonline.com:443 [http-in -> proxy]
+2024/06/03 06:59:04 127.0.0.1:50437 accepted //app.vssps.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 06:59:04 127.0.0.1:50439 accepted //app.vssps.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 06:59:05 127.0.0.1:50441 accepted //app.vssps.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 06:59:05 127.0.0.1:50442 accepted //app.vssps.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 06:59:05 127.0.0.1:50443 accepted //app.vssps.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 06:59:07 127.0.0.1:50447 accepted //login.microsoftonline.com:443 [http-in -> proxy]
+2024/06/03 06:59:16 127.0.0.1:50449 accepted //aadcdn.msauth.net:443 [http-in -> proxy]
+2024/06/03 06:59:26 127.0.0.1:50452 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 06:59:39 127.0.0.1:50455 accepted //login.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:40 127.0.0.1:50457 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:41 127.0.0.1:50459 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:43 127.0.0.1:50461 accepted //logincdn.msauth.net:443 [http-in -> proxy]
+2024/06/03 06:59:43 127.0.0.1:50462 accepted //logincdn.msauth.net:443 [http-in -> proxy]
+2024/06/03 06:59:49 127.0.0.1:50465 accepted //fpt.live.com:443 [http-in -> proxy]
+2024/06/03 06:59:49 127.0.0.1:50467 accepted //msft.hsprotect.net:443 [http-in -> proxy]
+2024/06/03 06:59:50 127.0.0.1:50469 accepted //client.hsprotect.net:443 [http-in -> proxy]
+2024/06/03 06:59:51 127.0.0.1:50471 accepted //browser.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 06:59:52 127.0.0.1:50473 accepted //collector-pxzc5j78di.hsprotect.net:443 [http-in -> proxy]
+2024/06/03 06:59:55 [Warning] [2018328748] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f002::b:443 > address 2001:67c:4e8:f002::b:443: too many colons in address
+2024/06/03 06:59:55 127.0.0.1:50475 accepted //149.154.167.222:443 [http-in -> proxy]
+2024/06/03 06:59:55 127.0.0.1:50477 accepted http://149.154.167.222:80/api [http-in -> proxy]
+2024/06/03 06:59:55 127.0.0.1:50478 accepted http://[2001:67c:4e8:f002::b]:80/api [http-in -> proxy]
+2024/06/03 06:59:56 [Warning] [480201377] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f002::b:443 > address 2001:67c:4e8:f002::b:443: too many colons in address
+2024/06/03 06:59:56 127.0.0.1:50482 accepted //149.154.167.222:443 [http-in -> proxy]
+2024/06/03 06:59:56 127.0.0.1:50485 accepted http://[2001:67c:4e8:f002::b]:80/api [http-in -> proxy]
+2024/06/03 06:59:56 127.0.0.1:50484 accepted http://149.154.167.222:80/api [http-in -> proxy]
+2024/06/03 06:59:57 127.0.0.1:50489 accepted http://status.geotrust.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR3enuod9bxDxzpICGW%2B2sabjf17QQUkFj%2FsJx1qFFUd7Ht8qNDFjiebMUCEAvcKB%2FCc22RsWVHheHpQuQ%3D [http-in -> proxy]
+2024/06/03 06:59:58 [Warning] [1354804131] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50477: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:59:58 [Warning] [862826080] proxy/http: failed to read response from [2001:67c:4e8:f002::b]:80 > io: read/write on closed pipe
+2024/06/03 06:59:58 [Warning] [862826080] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50478: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 06:59:58 [Warning] [1387861727] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50484: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:00:02 [Warning] [902466485] proxy/http: failed to read response from [2001:67c:4e8:f002::b]:80 > io: read/write on closed pipe
+2024/06/03 07:00:02 [Warning] [902466485] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50485: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:00:17 127.0.0.1:50494 accepted //logincdn.msauth.net:443 [http-in -> proxy]
+2024/06/03 07:00:40 127.0.0.1:50497 accepted //signup.live.com:443 [http-in -> proxy]
+2024/06/03 07:00:41 127.0.0.1:50499 accepted //browser.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:00:51 127.0.0.1:50501 accepted //people-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 07:00:55 127.0.0.1:50504 accepted //s09.upd.kaspersky.com:443 [http-in -> proxy]
+2024/06/03 07:01:04 127.0.0.1:50506 accepted //iframe.arkoselabs.com:443 [http-in -> proxy]
+2024/06/03 07:01:06 127.0.0.1:50508 accepted //client-api.arkoselabs.com:443 [http-in -> proxy]
+2024/06/03 07:01:28 127.0.0.1:50510 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:01:44 127.0.0.1:50513 accepted //waa-pa.clients6.google.com:443 [http-in -> proxy]
+2024/06/03 07:01:52 127.0.0.1:50515 accepted //array513.prod.do.dsp.mp.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:02:21 [Warning] [2847200358] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:02:21 127.0.0.1:50517 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:02:21 127.0.0.1:50520 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:02:21 127.0.0.1:50519 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:02:22 [Warning] [467043359] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50519: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:02:23 [Warning] [4240967657] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50520: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:02:35 127.0.0.1:50524 accepted //dc1-st.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:03:04 127.0.0.1:50530 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:03:04 127.0.0.1:50532 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:03:24 127.0.0.1:50534 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:03:25 127.0.0.1:50536 accepted //vortex.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:03:35 127.0.0.1:50538 accepted //client-api.arkoselabs.com:443 [http-in -> proxy]
+2024/06/03 07:03:38 127.0.0.1:50544 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 07:03:40 127.0.0.1:50552 accepted //go.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:03:40 127.0.0.1:50554 accepted //go.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:03:42 127.0.0.1:50556 accepted //az667904.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 07:03:45 127.0.0.1:50558 accepted //go.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:03:46 127.0.0.1:50560 accepted //az861674.vo.msecnd.net:443 [http-in -> proxy]
+2024/06/03 07:03:56 127.0.0.1:50562 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:04:14 127.0.0.1:50564 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:04:14 127.0.0.1:50566 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:04:17 127.0.0.1:50567 accepted //dc.services.visualstudio.com:443 [http-in -> proxy]
+2024/06/03 07:04:24 127.0.0.1:50569 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:04:38 127.0.0.1:50572 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:04:45 [Warning] [1349818368] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::a:443 > address 2001:67c:4e8:f004::a:443: too many colons in address
+2024/06/03 07:04:45 127.0.0.1:50574 accepted //149.154.167.92:443 [http-in -> proxy]
+2024/06/03 07:04:45 127.0.0.1:50577 accepted http://[2001:67c:4e8:f004::a]:80/api [http-in -> proxy]
+2024/06/03 07:04:45 127.0.0.1:50576 accepted http://149.154.167.92:80/api [http-in -> proxy]
+2024/06/03 07:04:46 [Warning] [3493058504] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50576: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:04:47 [Warning] [3763938767] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50577: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:04:55 127.0.0.1:50581 accepted //s09.upd.kaspersky.com:443 [http-in -> proxy]
+2024/06/03 07:05:17 127.0.0.1:50585 accepted //checkappexec.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:05:37 127.0.0.1:50587 accepted //sqm.telemetry.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:05:37 127.0.0.1:50589 accepted //accounts.google.com:443 [http-in -> proxy]
+2024/06/03 07:05:58 127.0.0.1:50592 accepted //mail.google.com:443 [http-in -> proxy]
+2024/06/03 07:05:59 127.0.0.1:50594 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 07:06:02 127.0.0.1:50596 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:06:02 127.0.0.1:50598 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:06:02 127.0.0.1:50599 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/03 07:06:02 127.0.0.1:50601 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:06:02 127.0.0.1:50604 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:06:04 [Warning] [1627031165] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/03 07:06:05 127.0.0.1:50607 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:06:05 127.0.0.1:50610 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/03 07:06:32 127.0.0.1:50612 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 07:06:32 127.0.0.1:50613 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 07:07:12 127.0.0.1:50620 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:07:13 127.0.0.1:50622 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:07:16 [Warning] [3571135660] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/03 07:07:16 127.0.0.1:50624 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:08:40 127.0.0.1:50626 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/03 07:08:47 127.0.0.1:50628 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:08:48 127.0.0.1:50630 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:08:53 127.0.0.1:50632 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:09:07 [Warning] [3570962469] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/03 07:09:14 127.0.0.1:50634 accepted //www.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:09:16 127.0.0.1:50637 accepted //i.ytimg.com:443 [http-in -> proxy]
+2024/06/03 07:09:16 127.0.0.1:50638 accepted //fonts.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:09:17 127.0.0.1:50642 accepted //fonts.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:18 127.0.0.1:50643 accepted //googleads.g.doubleclick.net:443 [http-in -> proxy]
+2024/06/03 07:09:18 127.0.0.1:50645 accepted //dc1-st.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:09:18 127.0.0.1:50647 accepted //rr1---sn-q4flrnld.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:09:18 127.0.0.1:50648 accepted //rr1---sn-q4flrnld.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:09:18 127.0.0.1:50651 accepted //fonts.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:18 127.0.0.1:50653 accepted //fonts.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:18 127.0.0.1:50652 accepted //lh4.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:09:19 127.0.0.1:50656 accepted //lh4.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:09:19 127.0.0.1:50657 accepted //yt3.ggpht.com:443 [http-in -> proxy]
+2024/06/03 07:09:19 127.0.0.1:50659 accepted //yt3.ggpht.com:443 [http-in -> proxy]
+2024/06/03 07:09:20 127.0.0.1:50662 accepted //fonts.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:20 127.0.0.1:50664 accepted //rr1---sn-q4flrnld.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:09:20 127.0.0.1:50666 accepted //rr1---sn-q4flrnld.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:09:21 127.0.0.1:50669 accepted //accounts.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:09:21 127.0.0.1:50672 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:21 127.0.0.1:50671 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:22 127.0.0.1:50675 accepted //rr4---sn-4g5lzner.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:09:22 127.0.0.1:50677 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:22 127.0.0.1:50679 accepted //static.doubleclick.net:443 [http-in -> proxy]
+2024/06/03 07:09:22 127.0.0.1:50681 accepted //jnn-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:09:22 127.0.0.1:50682 accepted //jnn-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:09:23 127.0.0.1:50685 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:09:23 127.0.0.1:50687 accepted //suggestqueries-clients6.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:09:23 127.0.0.1:50689 accepted //suggestqueries-clients6.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:09:23 127.0.0.1:50691 accepted //rr1---sn-q4flrnld.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:09:24 127.0.0.1:50694 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 07:09:24 127.0.0.1:50693 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 07:09:24 127.0.0.1:50697 accepted //rr1---sn-q4flrnld.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:09:26 127.0.0.1:50699 accepted //youtube.com:443 [http-in -> proxy]
+2024/06/03 07:09:27 127.0.0.1:50701 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:09:55 127.0.0.1:50703 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 07:09:57 127.0.0.1:50705 accepted //lh3.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:12:45 127.0.0.1:50710 accepted //rr4---sn-4g5ednss.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:12:49 127.0.0.1:50712 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:12:50 127.0.0.1:50714 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:12:52 127.0.0.1:50716 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:12:53 127.0.0.1:50718 accepted //i.ytimg.com:443 [http-in -> proxy]
+2024/06/03 07:12:59 [Warning] [4110494503] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:12:59 127.0.0.1:50720 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:12:59 127.0.0.1:50722 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:12:59 127.0.0.1:50723 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:12:59 127.0.0.1:50727 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:00 [Warning] [764119192] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50722: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:13:00 [Warning] [1525667324] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50723: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:13:00 127.0.0.1:50729 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:02 127.0.0.1:50733 accepted //rr3---sn-4g5ednsl.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:02 127.0.0.1:50734 accepted //rr3---sn-4g5ednsl.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:03 127.0.0.1:50737 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:03 127.0.0.1:50740 accepted //rr5---sn-4g5lzner.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:03 127.0.0.1:50741 accepted //rr2---sn-4g5ednds.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:03 127.0.0.1:50742 accepted //rr2---sn-4g5ednds.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:04 127.0.0.1:50746 accepted //rr4---sn-4g5ednss.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:04 127.0.0.1:50748 accepted //rr1---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:04 127.0.0.1:50739 accepted //tpc.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:13:05 127.0.0.1:50751 accepted //pagead2.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:13:05 127.0.0.1:50754 accepted //rr3---sn-q4flrn7k.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:05 127.0.0.1:50755 accepted //rr3---sn-q4flrn7k.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:05 127.0.0.1:50760 accepted //jnn-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:13:06 127.0.0.1:50753 accepted //tpc.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:13:06 127.0.0.1:50763 accepted //tpc.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:13:07 127.0.0.1:50765 accepted //rr4---sn-4g5ednsl.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:07 127.0.0.1:50767 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:13:07 127.0.0.1:50770 accepted //yt3.ggpht.com:443 [http-in -> proxy]
+2024/06/03 07:13:07 127.0.0.1:50772 accepted //lh5.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:13:10 127.0.0.1:50774 accepted //rr3---sn-q4flrn7k.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:10 127.0.0.1:50777 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 07:13:10 127.0.0.1:50769 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:13:10 127.0.0.1:50778 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:13:10 127.0.0.1:50781 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:13:10 127.0.0.1:50780 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:13:11 127.0.0.1:50787 accepted //rr3---sn-q4flrn7k.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:12 127.0.0.1:50789 accepted //rr5---sn-t0a7ln7d.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:12 127.0.0.1:50790 accepted //rr5---sn-t0a7ln7d.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:13 127.0.0.1:50793 accepted //rr2---sn-q4flrnsk.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:13 127.0.0.1:50794 accepted //rr2---sn-q4flrnsk.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:13 127.0.0.1:50797 accepted //accounts.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:13:14 127.0.0.1:50799 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/03 07:13:15 127.0.0.1:50801 accepted http://o.pki.goog/wr2/MFEwTzBNMEswSTAJBgUrDgMCGgUABBRTQtSEi8EX%2BbYUTXd8%2ByMxD3s1zQQU3hse7XkV1D43JMMhu%2Bw0OW1CsjACEFdCIqvQxAx3EpZLiHTzZv0%3D [http-in -> proxy]
+2024/06/03 07:13:15 127.0.0.1:50803 accepted //suggestqueries-clients6.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:13:15 127.0.0.1:50805 accepted //rr5---sn-t0a7ln7d.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:16 127.0.0.1:50807 accepted //rr5---sn-t0a7ln7d.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:16 127.0.0.1:50809 accepted //rr2---sn-q4flrnsk.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:17 127.0.0.1:50811 accepted //rr2---sn-q4flrnsk.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:17 127.0.0.1:50813 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/03 07:13:17 127.0.0.1:50814 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/03 07:13:18 127.0.0.1:50817 accepted //rr3---sn-q4flrn7k.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:18 127.0.0.1:50818 accepted //rr3---sn-q4flrn7k.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:18 127.0.0.1:50821 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/03 07:13:19 127.0.0.1:50825 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/03 07:13:19 127.0.0.1:50826 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/03 07:13:20 127.0.0.1:50829 accepted //rr2---sn-q4flrnsk.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:22 127.0.0.1:50831 accepted //rr2---sn-q4flrnsk.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:25 [Warning] [1718664083] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to write A request payload > transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://amirworker.amirhbrad849032.workers.dev/):  > read tcp 192.168.1.105:50815->188.114.98.0:443: i/o timeout
+2024/06/03 07:13:25 [Warning] [1718664083] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe
+2024/06/03 07:13:25 127.0.0.1:50833 accepted //rr2---sn-4g5e6nsz.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:29 127.0.0.1:50835 accepted //rr3---sn-4g5lznl6.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:33 127.0.0.1:50838 accepted //rr5---sn-t0a7ln7d.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:35 127.0.0.1:50840 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/06/03 07:13:35 127.0.0.1:50842 accepted //rr5---sn-t0a7ln7d.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:13:39 127.0.0.1:50844 accepted http://detectportal.firefox.com/success.txt?ipv4 [http-in -> proxy]
+2024/06/03 07:13:39 127.0.0.1:50846 accepted http://detectportal.firefox.com/success.txt?ipv6 [http-in -> proxy]
+2024/06/03 07:14:00 127.0.0.1:50849 accepted //contile.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:14:07 127.0.0.1:50852 accepted //lh6.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:14:30 127.0.0.1:50854 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:14:30 127.0.0.1:50856 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:14:35 127.0.0.1:50857 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/03 07:14:35 127.0.0.1:50858 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:14:35 127.0.0.1:50861 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:14:36 127.0.0.1:50863 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:14:38 127.0.0.1:50865 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 07:14:38 127.0.0.1:50867 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:14:40 127.0.0.1:50869 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:15:27 127.0.0.1:50873 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:15:28 127.0.0.1:50875 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:15:30 127.0.0.1:50877 accepted //github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443 [http-in -> proxy]
+2024/06/03 07:15:31 127.0.0.1:50879 accepted http://ocsp.r2m01.amazontrust.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBShdVEFnSEQ0gG5CBtzM48cPMe9XwQUgbgOY4qJEhjl%2Bjs7UJWf5uWQE4UCEAO9ExOMvLBqk2jkjdZnyjA%3D [http-in -> proxy]
+2024/06/03 07:16:27 127.0.0.1:50883 accepted //dc1-st.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:17:25 [Warning] [1106979339] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f002::b:443 > address 2001:67c:4e8:f002::b:443: too many colons in address
+2024/06/03 07:17:25 127.0.0.1:50886 accepted //149.154.167.222:443 [http-in -> proxy]
+2024/06/03 07:17:25 127.0.0.1:50888 accepted http://[2001:67c:4e8:f002::b]:80/api [http-in -> proxy]
+2024/06/03 07:17:25 127.0.0.1:50889 accepted http://149.154.167.222:80/api [http-in -> proxy]
+2024/06/03 07:17:26 [Warning] [1913059114] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50889: wsasend: An existing connection was forcibly closed by the remote host.
+2024/06/03 07:17:27 [Warning] [4158690292] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50888: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:17:59 127.0.0.1:50893 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:18:00 127.0.0.1:50895 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:18:00 [Warning] [347042132] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:18:00 127.0.0.1:50897 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:18:00 127.0.0.1:50899 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:18:00 127.0.0.1:50900 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:18:02 [Warning] [1134127053] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50900: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:18:02 127.0.0.1:50904 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:18:02 [Warning] [2403451985] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50899: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:18:18 127.0.0.1:50907 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:18:20 [Warning] [1334853601] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/03 07:19:02 127.0.0.1:50909 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:19:02 [Warning] [1566058333] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:19:02 127.0.0.1:50911 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:19:02 127.0.0.1:50912 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:19:03 [Warning] [1214127884] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50912: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:19:03 [Warning] [300020641] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50911: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:19:24 127.0.0.1:50917 accepted //accounts.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:19:29 127.0.0.1:50919 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:19:29 127.0.0.1:50921 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:19:29 127.0.0.1:50923 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:19:31 127.0.0.1:50925 accepted //github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443 [http-in -> proxy]
+2024/06/03 07:20:02 127.0.0.1:50927 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:20:02 127.0.0.1:50928 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:20:03 127.0.0.1:50931 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:20:32 127.0.0.1:50934 accepted //dc1-st.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:20:53 127.0.0.1:50936 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:20:54 127.0.0.1:50938 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:20:55 127.0.0.1:50940 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:20:59 127.0.0.1:50941 accepted //github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443 [http-in -> proxy]
+2024/06/03 07:21:07 [Warning] [3144930307] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:21:07 127.0.0.1:50944 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:21:07 127.0.0.1:50946 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:21:07 127.0.0.1:50947 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:21:08 [Warning] [1353243399] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:21:08 127.0.0.1:50951 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:21:08 127.0.0.1:50954 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:21:08 127.0.0.1:50953 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:21:10 [Warning] [3568345441] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50946: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:21:28 [Warning] [3394592603] proxy/http: failed to read response from [2001:67c:4e8:f004::b]:80 > io: read/write on closed pipe
+2024/06/03 07:21:28 [Warning] [3394592603] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:50947: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:22:09 127.0.0.1:50959 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:22:09 127.0.0.1:50960 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:22:09 127.0.0.1:50963 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:22:10 [Warning] [3735970668] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/03 07:22:11 127.0.0.1:50965 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:22:11 127.0.0.1:50967 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:23:36 127.0.0.1:50970 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:23:37 127.0.0.1:50972 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:23:40 127.0.0.1:50975 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:23:40 127.0.0.1:50976 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:23:40 127.0.0.1:50979 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/03 07:23:40 127.0.0.1:50980 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:23:57 [Warning] [497647414] proxy/http: failed to read response from ocsp.sectigo.com > io: read/write on closed pipe
+2024/06/03 07:24:04 127.0.0.1:50984 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 07:24:38 127.0.0.1:50988 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/03 07:24:45 127.0.0.1:50990 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:24:46 127.0.0.1:50993 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:24:55 127.0.0.1:50994 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/03 07:24:56 127.0.0.1:50996 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:25:39 127.0.0.1:51000 accepted //suggestqueries-clients6.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:25:40 127.0.0.1:51002 accepted //rr4---sn-4g5ednss.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:25:55 127.0.0.1:51004 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:25:56 127.0.0.1:51006 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 07:25:57 127.0.0.1:51009 accepted //yt3.ggpht.com:443 [http-in -> proxy]
+2024/06/03 07:25:57 127.0.0.1:51008 accepted //lh3.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:25:57 127.0.0.1:51011 accepted //i.ytimg.com:443 [http-in -> proxy]
+2024/06/03 07:26:00 127.0.0.1:51014 accepted //rr4---sn-4g5e6nzz.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:08 127.0.0.1:51018 accepted //rr4---sn-4g5lznl7.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:08 127.0.0.1:51019 accepted //rr4---sn-4g5lznl7.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:09 127.0.0.1:51022 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:09 127.0.0.1:51024 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:26:10 127.0.0.1:51027 accepted //rr1---sn-4g5ednz7.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:11 127.0.0.1:51029 accepted //rr4---sn-4g5e6nzz.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:12 127.0.0.1:51031 accepted //googleads.g.doubleclick.net:443 [http-in -> proxy]
+2024/06/03 07:26:15 127.0.0.1:51033 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:16 127.0.0.1:51035 accepted //rr1---sn-q4fl6nde.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:16 127.0.0.1:51036 accepted //rr1---sn-q4fl6nde.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:17 127.0.0.1:51039 accepted //rr1---sn-q4fl6nde.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:17 127.0.0.1:51040 accepted //rr1---sn-q4fl6nde.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:18 127.0.0.1:51043 accepted //rr1---sn-q4fl6nde.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:18 127.0.0.1:51045 accepted //rr1---sn-q4fl6nde.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:24 [Warning] [1549357386] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:26:24 127.0.0.1:51047 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:26:24 127.0.0.1:51049 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:26:24 127.0.0.1:51050 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:26:25 [Warning] [3149358628] proxy/http: failed to read response from [2001:67c:4e8:f004::b]:80 > io: read/write on closed pipe
+2024/06/03 07:26:25 [Warning] [3149358628] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51049: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:26:25 [Warning] [3258508451] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51050: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:26:27 127.0.0.1:51054 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:27 127.0.0.1:51056 accepted //static.doubleclick.net:443 [http-in -> proxy]
+2024/06/03 07:26:27 127.0.0.1:51058 accepted //jnn-pa.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:26:27 127.0.0.1:51061 accepted //rr2---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:27 127.0.0.1:51063 accepted //rr4---sn-4g5ednds.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:28 127.0.0.1:51060 accepted //tpc.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:26:28 127.0.0.1:51068 accepted //rr5---sn-4g5e6nz7.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:28 127.0.0.1:51070 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:26:29 127.0.0.1:51073 accepted //play.google.com:443 [http-in -> proxy]
+2024/06/03 07:26:29 127.0.0.1:51066 accepted //pagead2.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:26:30 127.0.0.1:51076 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:26:32 127.0.0.1:51078 accepted //accounts.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:26:35 127.0.0.1:51080 accepted //lh6.googleusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:26:36 127.0.0.1:51082 accepted //rr2---sn-4g5ednld.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:26:38 127.0.0.1:51084 accepted http://tile-service.weather.microsoft.com/en-US/livetile/preinstall?region=US&appid=C98EA5B0842DBB9405BBF071E1DA76512D21FE36&FORM=Threshold [http-in -> proxy]
+2024/06/03 07:26:39 127.0.0.1:51086 accepted //www.googleadservices.com:443 [http-in -> proxy]
+2024/06/03 07:26:44 127.0.0.1:51088 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/03 07:26:45 127.0.0.1:51090 accepted http://ocsp.digicert.com/ [http-in -> proxy]
+2024/06/03 07:26:57 127.0.0.1:51092 accepted //www.google.de:443 [http-in -> proxy]
+2024/06/03 07:27:21 127.0.0.1:51095 accepted //rr4---sn-4g5ednsd.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:29:01 127.0.0.1:51098 accepted //contile.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:29:06 127.0.0.1:51100 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:29:24 127.0.0.1:51103 accepted //accounts.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:30:37 127.0.0.1:51106 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:30:37 127.0.0.1:51108 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:30:38 127.0.0.1:51110 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:30:58 127.0.0.1:51112 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:31:24 127.0.0.1:51115 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:32:09 127.0.0.1:51118 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:32:38 127.0.0.1:51120 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:35:01 127.0.0.1:51124 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:35:02 127.0.0.1:51126 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:35:12 127.0.0.1:51128 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:35:57 [Warning] [3001933234] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:35:57 [Warning] [1411337356] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:35:57 127.0.0.1:51131 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:35:57 127.0.0.1:51130 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:35:57 127.0.0.1:51134 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:35:57 127.0.0.1:51135 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:35:57 127.0.0.1:51137 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:35:57 127.0.0.1:51136 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:35:58 [Warning] [2071760378] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51137: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:35:58 [Warning] [1260428678] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51134: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:35:58 [Warning] [330190266] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51136: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:35:58 [Warning] [153849798] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51135: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:36:53 127.0.0.1:51146 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:36:53 127.0.0.1:51148 accepted //ipm-klca.kaspersky.com:443 [http-in -> proxy]
+2024/06/03 07:38:09 127.0.0.1:51152 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:38:38 [Warning] [2245065488] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:38:38 127.0.0.1:51154 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:38:38 127.0.0.1:51156 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:38:38 127.0.0.1:51157 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:38:39 [Warning] [2820334590] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51156: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:38:39 [Warning] [1285856307] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51157: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:39:25 127.0.0.1:51162 accepted //accounts.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:40:26 127.0.0.1:51165 accepted http://scrootca2.ocsp.secomtrust.net/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTyDvPjcY8Z0TDZzHotwwMWHLKc0AQUCoWpd2UFmHxAgfgPlyw48QrsPM8CECK5saB0ZBhX96ATMttCuew%3D [http-in -> proxy]
+2024/06/03 07:40:26 127.0.0.1:51165 accepted http://c.pki.goog/r/r1.crl [http-in -> proxy]
+2024/06/03 07:40:26 127.0.0.1:51165 accepted http://x1.c.lencr.org/ [http-in -> proxy]
+2024/06/03 07:40:27 127.0.0.1:51165 accepted http://x2.c.lencr.org/ [http-in -> proxy]
+2024/06/03 07:40:27 127.0.0.1:51165 accepted http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?2c505aeabb09f9ae [http-in -> proxy]
+2024/06/03 07:40:28 127.0.0.1:51165 accepted http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?4a2193ee907b9ad7 [http-in -> proxy]
+2024/06/03 07:41:36 127.0.0.1:51173 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:41:41 127.0.0.1:51176 accepted //i.ytimg.com:443 [http-in -> proxy]
+2024/06/03 07:41:43 127.0.0.1:51178 accepted //rr4---sn-4g5lznez.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:41:43 127.0.0.1:51181 accepted //rr5---sn-4g5edn6y.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:41:43 127.0.0.1:51183 accepted //i.ytimg.com:443 [http-in -> proxy]
+2024/06/03 07:41:43 127.0.0.1:51185 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:41:43 127.0.0.1:51180 accepted //tpc.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:41:44 127.0.0.1:51186 accepted //pagead2.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:41:44 127.0.0.1:51190 accepted //ad.doubleclick.net:443 [http-in -> proxy]
+2024/06/03 07:41:45 127.0.0.1:51192 accepted //ade.googlesyndication.com:443 [http-in -> proxy]
+2024/06/03 07:41:46 127.0.0.1:51194 accepted //googleads.g.doubleclick.net:443 [http-in -> proxy]
+2024/06/03 07:41:58 [Warning] [2559295091] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:41:58 127.0.0.1:51196 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:41:58 127.0.0.1:51198 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:41:58 127.0.0.1:51199 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:41:59 [Warning] [2921280639] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51198: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:42:01 127.0.0.1:51203 accepted //dc1-file.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:42:03 127.0.0.1:51205 accepted //www.google.com:443 [http-in -> proxy]
+2024/06/03 07:42:03 127.0.0.1:51207 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:42:03 127.0.0.1:51209 accepted //www.google.de:443 [http-in -> proxy]
+2024/06/03 07:42:09 [Warning] [989031280] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f002::b:443 > address 2001:67c:4e8:f002::b:443: too many colons in address
+2024/06/03 07:42:09 127.0.0.1:51212 accepted //149.154.167.222:443 [http-in -> proxy]
+2024/06/03 07:42:09 127.0.0.1:51214 accepted http://149.154.167.222:80/api [http-in -> proxy]
+2024/06/03 07:42:09 127.0.0.1:51215 accepted http://[2001:67c:4e8:f002::b]:80/api [http-in -> proxy]
+2024/06/03 07:42:09 [Warning] [1198733541] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51214: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:42:18 [Warning] [1411921898] proxy/http: failed to read response from [2001:67c:4e8:f004::b]:80 > io: read/write on closed pipe
+2024/06/03 07:42:18 [Warning] [1411921898] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51199: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:42:20 [Warning] [3175140517] proxy/http: failed to read response from [2001:67c:4e8:f002::b]:80 > io: read/write on closed pipe
+2024/06/03 07:42:20 [Warning] [3175140517] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51215: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:42:52 127.0.0.1:51219 accepted //rr4---sn-4g5e6nzz.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:42:53 127.0.0.1:51221 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:43:09 127.0.0.1:51224 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:43:24 127.0.0.1:51226 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:43:28 127.0.0.1:51229 accepted //suggestqueries-clients6.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:43:28 127.0.0.1:51231 accepted //yt3.ggpht.com:443 [http-in -> proxy]
+2024/06/03 07:43:29 127.0.0.1:51233 accepted //www.gstatic.com:443 [http-in -> proxy]
+2024/06/03 07:44:14 127.0.0.1:51235 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:44:14 127.0.0.1:51237 accepted //collector.github.com:443 [http-in -> proxy]
+2024/06/03 07:44:14 127.0.0.1:51239 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:44:17 127.0.0.1:51242 accepted //avatars.githubusercontent.com:443 [http-in -> proxy]
+2024/06/03 07:44:17 127.0.0.1:51244 accepted //api.github.com:443 [http-in -> proxy]
+2024/06/03 07:44:44 127.0.0.1:51247 accepted //github.githubassets.com:443 [http-in -> proxy]
+2024/06/03 07:44:45 127.0.0.1:51249 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/03 07:45:00 127.0.0.1:51251 accepted //alive.github.com:443 [http-in -> proxy]
+2024/06/03 07:45:17 127.0.0.1:51254 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:45:18 127.0.0.1:51256 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:45:29 127.0.0.1:51257 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:45:48 127.0.0.1:51259 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:46:20 127.0.0.1:51262 accepted //github.com:443 [http-in -> proxy]
+2024/06/03 07:46:21 127.0.0.1:51264 accepted http://ocsp.sectigo.com/ [http-in -> proxy]
+2024/06/03 07:46:30 127.0.0.1:51266 accepted //incoming.telemetry.mozilla.org:443 [http-in -> proxy]
+2024/06/03 07:46:30 127.0.0.1:51268 accepted http://ocsp.digicert.com/ [http-in -> proxy]
+2024/06/03 07:46:39 127.0.0.1:51270 accepted //i.ytimg.com:443 [http-in -> proxy]
+2024/06/03 07:47:10 127.0.0.1:51273 accepted //safebrowsing.googleapis.com:443 [http-in -> proxy]
+2024/06/03 07:47:28 127.0.0.1:51277 accepted //dc1.ksn.kaspersky-labs.com:443 [http-in -> proxy]
+2024/06/03 07:47:38 127.0.0.1:51280 accepted //v10.events.data.microsoft.com:443 [http-in -> proxy]
+2024/06/03 07:47:44 127.0.0.1:51282 accepted //contile.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:48:47 127.0.0.1:51285 accepted //rr4---sn-4g5e6nzz.googlevideo.com:443 [http-in -> proxy]
+2024/06/03 07:48:57 127.0.0.1:51287 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:48:57 127.0.0.1:51289 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:49:07 127.0.0.1:51290 accepted //push.services.mozilla.com:443 [http-in -> proxy]
+2024/06/03 07:49:26 127.0.0.1:51293 accepted //accounts.youtube.com:443 [http-in -> proxy]
+2024/06/03 07:49:56 [Warning] [1163398443] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:49:56 [Warning] [1560277572] app/proxyman/inbound: connection ends > proxy/http: malformed proxy host: 2001:67c:4e8:f004::b:443 > address 2001:67c:4e8:f004::b:443: too many colons in address
+2024/06/03 07:49:56 127.0.0.1:51295 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:49:56 127.0.0.1:51299 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:49:56 127.0.0.1:51296 accepted //149.154.165.120:443 [http-in -> proxy]
+2024/06/03 07:49:56 127.0.0.1:51301 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:49:56 127.0.0.1:51300 accepted http://149.154.165.120:80/api [http-in -> proxy]
+2024/06/03 07:49:56 127.0.0.1:51302 accepted http://[2001:67c:4e8:f004::b]:80/api [http-in -> proxy]
+2024/06/03 07:49:57 [Warning] [1427276769] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51299: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:49:57 [Warning] [322999431] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51300: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:49:58 [Warning] [1964439560] proxy/http: failed to read response from [2001:67c:4e8:f004::b]:80 > io: read/write on closed pipe
+2024/06/03 07:49:58 [Warning] [1964439560] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51301: wsasend: An established connection was aborted by the software in your host machine.
+2024/06/03 07:49:59 [Warning] [4057860327] proxy/http: failed to read response from [2001:67c:4e8:f004::b]:80 > io: read/write on closed pipe
+2024/06/03 07:49:59 [Warning] [4057860327] app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > write tcp 127.0.0.1:2081->127.0.0.1:51302: wsasend: An established connection was aborted by the software in your host machine.

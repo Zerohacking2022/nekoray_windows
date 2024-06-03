@@ -1,0 +1,28 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "104.21.50.74",
+        "name": "@v2rayngvpn",
+        "pass": "auto",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "host": "esetsecuritylicense.tobavo5084.workers.dev",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/?ed=2560",
+            "sec": "tls",
+            "sni": "esetsecuritylicense.tobavo5084.workers.dev",
+            "utls": "randomized"
+        }
+    },
+    "gid": 0,
+    "id": 2,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "trojan",
+    "yc": 0
+}
